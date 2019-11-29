@@ -1,5 +1,6 @@
 welcome to bosh
 you can deploy nodes here
 
+As of now, we deployed mongo router, nginx, kafka and zookeeper
 
 Thank you:)
