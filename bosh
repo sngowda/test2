@@ -1,6 +1,7 @@
 welcome to bosh
 you can deploy nodes here
 
+As of now, we deployed mongo router, nginx, kafka and zookeeper
 
 We are trying to deploy mongodb now, but we need pcf help for it. work in progress
 
